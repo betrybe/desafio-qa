@@ -17,7 +17,7 @@ O desafio envolve dois cenários muito comuns no nosso dia a dia:
 
 Queremos que você acesse a página de inscrição da Trybe, mapeie e automatize os testes da funcionalidade de inscrição dessa página.
 
-- https://app.betrybe.com/registration
+- https://staging.app.betrybe.com/registration
 
 ## 2. Construção de cenários de teste e automação para API REST
 
